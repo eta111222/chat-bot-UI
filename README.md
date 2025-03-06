@@ -15,7 +15,7 @@ Tweak the assistant prompt in `pages/index.tsx`.
 **1. Clone Repo**
 
 ```bash
-git clone 
+git clone https://github.com/eta111222/chat-bot-UI.git
 ```
 
 **2. Install Dependencies**
